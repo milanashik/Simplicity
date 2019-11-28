@@ -53,3 +53,12 @@ The folder 'Simplicity' has the codes.
 
 'CAPTURE.PNG' is the screenshot of the default page.
 
+## Code to check
+Default.aspx
+
+Default.aspx.cs
+
+DAL > VisiorDAL.cs
+
+Model > VisitorDetails.cs
+
